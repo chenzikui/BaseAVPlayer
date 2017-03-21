@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "18B0B00F7D266417402A3AACCF0BB515C021136D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "18B0B00F7D266417402A3AACCF0BB515C021136D" : 9223372036854775807,
+    "0B202DCB595C7D52E9531AE4F70774414E9C13BD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "58573A83-45A3-4493-8E75-C4A56DE20CF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "18B0B00F7D266417402A3AACCF0BB515C021136D" : "BaseAVPlayer\/",
+    "0B202DCB595C7D52E9531AE4F70774414E9C13BD" : "ZFPlayer"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Player",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Player.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/renzifeng\/ZFPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B202DCB595C7D52E9531AE4F70774414E9C13BD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:chenzikui\/BaseAVPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "18B0B00F7D266417402A3AACCF0BB515C021136D"
+    }
+  ]
+}
